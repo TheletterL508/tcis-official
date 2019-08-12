@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Permanent Marker' rel='stylesheet'>
+<style>
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+body {
+    font-family: 'Permanent Marker';font-size: 22px;
+}
+</style>
+</head>
+<body>
+<h1><center>welcome to the cursed image society official website!</center></h1>
+<h2><center> this is the website that ties in with our discord server based solely on cursed images, this website is in early development stages and will be edited so sometimes the site may be down, keep in mind i am not very good at html/css </center></h2>
+<h3><center>here we have our discord my twitter and updates and news about the discord that was too big or too small to put in the announcements of the discord or just because i feel like it</h3></center>
+<center><a href="https://discord.gg/F77ne5D" class="button">the discord</a></center>
+<center><a href="https://www.reddit.com/r/TCISDiscordServer/" class="button">the subreddit</a></center>
+<center><a href="https://twitter.com/FiZZy__SoDa" class="button">my twitter</a></center>
+
+</body>
+
+</html>
